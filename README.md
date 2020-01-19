@@ -1,5 +1,7 @@
 # flutter_ios_destroydemo
 
+It's a demo associated with [flutter/flutter issue](https://github.com/flutter/flutter/issues/44256)
+
 A new Flutter project.
 
 ## Getting Started
